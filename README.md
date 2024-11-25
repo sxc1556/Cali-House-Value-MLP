@@ -56,5 +56,5 @@ Steps in the Project
 Results
 
 	•	Training Loss: Observed during training to ensure convergence.
-	•	Test Performance: Achieved an MSE of XYZ on the test set (replace with actual results).
+	•	Test Performance: Achieved an MSE of 0.013 on the test set.
 	•	Visualizations: Predicted housing prices closely align with actual values.
