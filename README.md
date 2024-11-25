@@ -38,20 +38,20 @@ Tech Stack
 Steps in the Project
 
 	1.	Data Loading and Exploration:
-	•	Loaded and inspected the dataset.
-	•	Checked for missing values and cleaned the data.
+		Loaded and inspected the dataset.
+		Checked for missing values and cleaned the data.
 	2.	Data Preprocessing:
-	•	Selected relevant features.
-	•	Normalized features for better model performance.
+		Selected relevant features.
+		Normalized features for better model performance.
 	3.	Model Definition:
-	•	Designed an MLP regressor using PyTorch.
+		Designed an MLP regressor using PyTorch.
 	4.	Training:
-	•	Trained the model using the Mean Squared Error (MSE) loss function.
-	•	Optimized using the Adam optimizer.
+		Trained the model using the Mean Squared Error (MSE) loss function.
+		Optimized using the Adam optimizer.
 	5.	Evaluation:
-	•	Evaluated the model on test data using metrics like MSE.
+		Evaluated the model on test data using metrics like MSE.
 	6.	Visualization:
-	•	Visualized actual vs. predicted values to assess the model’s accuracy.
+		Visualized actual vs. predicted values to assess the model’s accuracy.
 
 Results
 
